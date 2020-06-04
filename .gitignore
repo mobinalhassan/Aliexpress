@@ -9,7 +9,7 @@
 !.gitmodules
 !README.md
 !requirements.txt
-
+!*.md
 !/src/*.py
 !/data/.gitignore
 !/deployment/**
