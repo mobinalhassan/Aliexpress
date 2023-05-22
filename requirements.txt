@@ -1,5 +1,5 @@
 beautifulsoup4==4.8.0
 selenium==3.141.0
-requests==2.22.0
+requests==2.31.0
 pandas==0.25.1
 PyVirtualDisplay==0.2.5
